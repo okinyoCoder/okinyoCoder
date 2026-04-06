@@ -157,9 +157,23 @@ A **production-ready API system** with advanced backend tools.
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=okinyoCoder&show_icons=true&hide_title=true&count_private=true" />
-  <br/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okinyoCoder&layout=compact&count_private=true" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=okinyoCoder&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okinyoCoder&hide_border=true" />
 </p>
 
 ---
