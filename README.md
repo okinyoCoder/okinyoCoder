@@ -99,9 +99,9 @@ Advanced API system with production-level tools.
 
 ## 📊 GitHub Stats
 
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okinyoCoder&show_icons=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okinyoCoder&layout=compact)
 
 ---
 
@@ -117,8 +117,8 @@ Advanced API system with production-level tools.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: www.linkedin.com/in/anthonyodhiambookinyo
+- 📧 Email: okinyoanthony@gmail.com
 - 🌐 Portfolio: https://your-portfolio.com
 
 ---
