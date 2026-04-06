@@ -59,24 +59,48 @@ I also build **fullstack applications** by integrating React frontends with robu
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Development-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-DevOps-orange?style=for-the-badge" />
+</p>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+---
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" />
+</p>
+
+---
 
 ### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-learning-37814A?style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-learning-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-learning-37814A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RabbitMQ-learning-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
 
 ---
 
