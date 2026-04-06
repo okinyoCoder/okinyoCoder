@@ -8,7 +8,27 @@
 🚀 **Backend Engineer | Django & DRF | API Design | React**  
 📍 Nairobi, Kenya  
 
-💡 I design and build **scalable backend systems**, develop **clean and efficient APIs**, and deliver **fullstack applications** that solve real-world problems.
+💡 I specialize in designing and building **scalable backend systems**, developing **well-structured REST APIs**, and delivering **production-ready fullstack applications**.
+
+🔧 My focus is on writing **clean, maintainable code** and building systems that are **efficient, secure, and easy to scale**.
+
+---
+
+### ⚡ Quick Snapshot
+
+- 🧩 Strong experience with **Django & Django REST Framework**  
+- 🔐 Skilled in **authentication systems (JWT, custom users, permissions)**  
+- 🔗 Experience integrating **React frontends with backend APIs**  
+- ⚙️ Focused on **system design, performance, and scalability**  
+
+---
+
+### 🎯 What I Bring
+
+- Clean and maintainable backend architecture  
+- Real-world API development experience  
+- Problem-solving mindset with attention to detail  
+- Ability to build and connect fullstack systems  
 
 ---
 
