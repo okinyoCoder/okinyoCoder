@@ -99,9 +99,9 @@ Advanced API system with production-level tools.
 
 ## 📊 GitHub Stats
 
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okinyoCoder&show_icons=true&hide_title=true)
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okinyoCoder&show_icons=true&hide_title=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okinyoCoder&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okinyoCoder&layout=compact&count_private=true&cache_seconds=1800)
 
 ---
 
