@@ -171,11 +171,6 @@ A **production-ready API system** with advanced backend tools.
   <img src="https://streak-stats.demolab.com?user=okinyoCoder&theme=default&hide_border=true" />
 </p>
 
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okinyoCoder&hide_border=true" />
-</p>
-
 ---
 
 ## 🔥 What Sets Me Apart
