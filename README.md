@@ -36,76 +36,83 @@ I’m a backend-focused developer specializing in **Django and Django REST Frame
 ## 🛠️ Tech Stack
 
 ### ⚙️ Backend Development
-- Django
-- Django REST Framework (DRF)
-- RESTful API Design
-- Custom User Models & Authentication (JWT)
-- MySQL / PostgreSQL
-- API Security & Permissions
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+- RESTful API Design  
+- Custom Authentication Systems (JWT, Permissions)  
+- Scalable Backend Architecture  
+
+---
 
 ### 🎨 Frontend Development
-- React.js
-- React Router
-- API Integration
-- JavaScript (ES6+)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+
+- React Router  
+- API Integration  
+- Component-based UI  
+
+---
 
 ### 🧰 Tools & Technologies
-- Git & GitHub
-- Linux (Ubuntu)
-- Postman
-- Swagger (drf-yasg)
-- Docker (learning)
-- Celery & RabbitMQ (learning)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-learning-37814A?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-learning-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏠 RentSpace (Fullstack Property Management System)
-A fullstack web application for managing rental properties.
+### 🏠 RentSpace — Fullstack Property Management System
+A **fullstack platform** for managing rental properties, built with React and Django.
 
-**Key Features:**
-- Property listing and management
-- React-based dashboard UI
-- Backend API built with Django REST Framework
-- Routing with `react-router-dom`
-- API integration between frontend & backend
+**Highlights:**
+- 🧩 Full CRUD system for property management  
+- 🔗 Seamless API integration (React ↔ Django backend)  
+- 🧭 Client-side routing with `react-router-dom`  
+- 📊 Dashboard-style UI for better user experience  
 
 ---
 
 ### 🛒 E-Commerce API
-A scalable RESTful API for managing an e-commerce platform.
+A **scalable RESTful API** designed to power an e-commerce platform.
 
-**Key Features:**
-- Product & category management
-- CRUD operations
-- Structured serializers
-- Modular architecture for scalability
-- Ready for cart & order system integration
+**Highlights:**
+- 🏗️ Modular architecture for scalability  
+- 📦 Product & category management  
+- 🔄 Full CRUD operations with DRF serializers  
+- 🔐 Ready for authentication, cart & order integration  
 
 ---
 
 ### 🧾 Django Blog API
-A feature-rich blog system with authentication and tagging.
+A **feature-rich blogging system** with advanced backend functionality.
 
-**Key Features:**
-- Custom user model (`AbstractUser`)
-- Token-based authentication
-- Tagging system
-- Search functionality using Django Q objects
-- User profile system (followers, bio, profile picture)
+**Highlights:**
+- 👤 Custom user model (`AbstractUser`)  
+- 🔐 Token-based authentication system  
+- 🏷️ Tagging & search using Django Q objects  
+- 🤝 Social features (followers, profiles, bio, images)  
 
 ---
 
 ### ✈️ Travel Listings API (`alx_travel_app`)
-Advanced API system with production-level tools.
+A **production-ready API system** with advanced tooling and architecture.
 
-**Key Features:**
-- Django REST Framework architecture
-- MySQL database configuration
-- API documentation with Swagger
-- Background tasks (Celery + RabbitMQ)
-- Environment variable management
+**Highlights:**
+- ⚙️ DRF-based scalable API architecture  
+- 🗄️ MySQL database configuration  
+- 📄 API documentation with Swagger  
+- ⏱️ Background task processing (Celery + RabbitMQ)  
+- 🔐 Environment-based configuration management  
 
 ---
 
@@ -119,19 +126,19 @@ Advanced API system with production-level tools.
 
 ## 🔥 What I Bring
 
-- Clean, maintainable, and scalable backend code
-- Strong understanding of API design principles
-- Real-world project experience (not just tutorials)
-- Problem-solving mindset with attention to detail
-- Ability to integrate frontend and backend systems
+- 🧼 Clean, maintainable, and scalable backend code  
+- 🧠 Strong understanding of API design & system architecture  
+- 🛠️ Real-world project experience (not just tutorials)  
+- 🔍 Problem-solving mindset with attention to detail  
+- 🔗 Ability to integrate frontend and backend systems  
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/anthonyodhiambookinyo
-- 📧 Email: okinyoanthony@gmail.com
-- 🌐 Portfolio: https://your-portfolio.com
+- 💼 LinkedIn: https://www.linkedin.com/in/anthonyodhiambookinyo  
+- 📧 Email: okinyoanthony@gmail.com  
+- 🌐 Portfolio: https://your-portfolio.com  
 
 ---
 
