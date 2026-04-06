@@ -5,53 +5,55 @@
   <img src="https://img.shields.io/github/followers/okinyoCoder?style=social" />
 </p>
 
-🚀 **Backend Engineer | Django & DRF | API Design | React**  
-📍 Nairobi, Kenya  
-
-💡 I specialize in designing and building **scalable backend systems**, developing **well-structured REST APIs**, and delivering **production-ready fullstack applications**.
-
-🔧 My focus is on writing **clean, maintainable code** and building systems that are **efficient, secure, and easy to scale**.
+<p align="center">
+  🚀 <b>Backend Engineer</b> | Django & DRF | API Design | React  
+  <br/>
+  📍 Nairobi, Kenya
+</p>
 
 ---
 
-### ⚡ Quick Snapshot
+## 💡 About Me
+
+I specialize in building **scalable backend systems** and **production-ready APIs** using Django and Django REST Framework.
+
+I focus on writing **clean, maintainable, and efficient code**, while designing systems that are:
+
+- ⚙️ High-performing  
+- 🔐 Secure  
+- 📈 Scalable  
+- 🧩 Easy to extend and maintain  
+
+I also build **fullstack applications** by integrating React frontends with robust backend APIs.
+
+---
+
+## ⚡ Snapshot
 
 - 🧩 Strong experience with **Django & Django REST Framework**  
-- 🔐 Skilled in **authentication systems (JWT, custom users, permissions)**  
-- 🔗 Experience integrating **React frontends with backend APIs**  
+- 🔐 Skilled in **JWT authentication, custom user models & permissions**  
+- 🔗 Experienced in **React ↔ API integration**  
 - ⚙️ Focused on **system design, performance, and scalability**  
 
 ---
 
-### 🎯 What I Bring
+## 🎯 What I Offer
 
-- Clean and maintainable backend architecture  
-- Real-world API development experience  
-- Problem-solving mindset with attention to detail  
-- Ability to build and connect fullstack systems  
-
----
-
-## 🧠 About Me
-
-I specialize in building **robust backend systems** using Django and Django REST Framework, with a strong focus on **scalability, performance, and clean architecture**.
-
-- 🔭 Building **fullstack applications (React + Django)** with real-world use cases  
-- 🧩 Designing **modular REST APIs** with maintainable architecture  
-- 🔐 Implementing **secure authentication systems** (JWT, custom user models, permissions)  
-- ⚙️ Focused on **performance optimization and scalable system design**  
-- 🌍 Exploring **health-tech and workflow automation solutions**  
-- 🌱 Currently learning **Docker, Celery, RabbitMQ, and distributed systems**
+- 🏗️ Scalable backend architecture  
+- 🔗 Well-structured REST API design  
+- 🔐 Secure authentication & authorization systems  
+- 🗄️ Optimized database design  
+- ⚙️ Seamless fullstack integration  
 
 ---
 
-## ⚡ Core Competencies
+## 🧠 Core Skills
 
-- 🏗️ Scalable Backend Architecture  
-- 🔗 API Design & Integration  
-- 🔐 Authentication & Authorization Systems  
-- 🗄️ Database Design & Optimization  
-- ⚙️ Fullstack Integration (React + Django)  
+- Backend Architecture & API Design  
+- Authentication & Authorization Systems  
+- Database Design & Optimization  
+- Fullstack Development (React + Django)  
+- System Performance & Scalability  
 
 ---
 
@@ -62,15 +64,10 @@ I specialize in building **robust backend systems** using Django and Django REST
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-
----
 
 ### 🧰 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,55 +82,51 @@ I specialize in building **robust backend systems** using Django and Django REST
 
 ## 📂 Featured Projects
 
-### 🏠 RentSpace — Fullstack Property Management System  
-🔗 *[Add Repo Link]* | 🌐 *[Add Live Demo]*  
+### 🏠 RentSpace — Property Management System  
+🔗 *[Repo](#)* | 🌐 *[Live Demo](#)*  
 
-A **fullstack property management platform** built with React and Django, focused on usability and scalable backend integration.
+A **fullstack property management platform** built with React and Django.
 
-**Key Contributions:**
-- 🧩 Designed and implemented full CRUD functionality  
-- 🔗 Integrated frontend with RESTful backend APIs  
-- 🧭 Built dynamic routing using `react-router-dom`  
-- 📊 Developed a responsive dashboard interface  
+- 🧩 Full CRUD system for property management  
+- 🔗 Seamless frontend–backend API integration  
+- 🧭 Client-side routing with React Router  
+- 📊 Responsive and user-friendly dashboard  
 
 ---
 
 ### 🛒 E-Commerce API  
-🔗 *[Add Repo Link]*  
+🔗 *[Repo](#)*  
 
-A **modular and scalable REST API** for e-commerce systems.
+A **scalable RESTful API** designed for e-commerce systems.
 
-**Key Contributions:**
-- 🏗️ Designed scalable architecture for future expansion  
-- 📦 Implemented product and category management  
-- 🔄 Built reusable and structured serializers  
-- 🔐 Prepared system for authentication and order workflows  
+- 🏗️ Modular and scalable architecture  
+- 📦 Product & category management  
+- 🔄 Structured serializers for clean data flow  
+- 🔐 Ready for authentication & order workflows  
 
 ---
 
 ### 🧾 Django Blog API  
-🔗 *[Add Repo Link]*  
+🔗 *[Repo](#)*  
 
-A **feature-rich blogging backend** with authentication and social features.
+A **feature-rich blogging API** with social functionality.
 
-**Key Contributions:**
-- 👤 Developed custom user model with extended fields  
-- 🔐 Implemented token-based authentication  
-- 🏷️ Built tagging and search functionality  
-- 🤝 Designed user interaction features (profiles, followers)  
+- 👤 Custom user model implementation  
+- 🔐 Token-based authentication system  
+- 🏷️ Tagging and search capabilities  
+- 🤝 User profiles and interaction features  
 
 ---
 
-### ✈️ Travel Listings API (`alx_travel_app`)  
-🔗 *[Add Repo Link]*  
+### ✈️ Travel Listings API  
+🔗 *[Repo](#)*  
 
-A **production-oriented API system** with advanced backend tooling.
+A **production-ready API system** with advanced backend tools.
 
-**Key Contributions:**
-- ⚙️ Designed DRF-based scalable architecture  
-- 📄 Integrated Swagger for API documentation  
-- ⏱️ Configured background tasks (Celery + RabbitMQ)  
-- 🔐 Managed environment-based configurations  
+- ⚙️ DRF-based scalable architecture  
+- 📄 Swagger API documentation  
+- ⏱️ Background tasks with Celery & RabbitMQ  
+- 🔐 Environment-based configuration management  
 
 ---
 
@@ -147,17 +140,17 @@ A **production-oriented API system** with advanced backend tooling.
 
 ---
 
-## 🔥 What I Bring
+## 🔥 What Sets Me Apart
 
-- 🧼 Clean, scalable, and maintainable backend code  
-- 🧠 Strong understanding of API design & system architecture  
-- 🛠️ Hands-on experience with real-world applications  
-- 🔍 Detail-oriented problem-solving approach  
-- 🔗 Seamless frontend-backend integration skills  
+- 🧼 Clean, scalable, production-ready code  
+- 🧠 Strong grasp of system design principles  
+- 🛠️ Real-world project experience  
+- 🔍 Attention to detail and performance  
+- 🔗 Strong fullstack integration skills  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/anthonyodhiambookinyo  
 - 📧 Email: okinyoanthony@gmail.com  
