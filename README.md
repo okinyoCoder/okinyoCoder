@@ -1,23 +1,35 @@
 # 👋 Hi, I'm Anthony Odhiambo
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=okinyoCoder)
+![GitHub followers](https://img.shields.io/github/followers/okinyoCoder?style=social)
 
-🚀 Backend Developer | Django & DRF Specialist | React Developer  
+🚀 Backend Engineer | Django & DRF | API Design | React  
 📍 Nairobi, Kenya  
-💡 Passionate about building scalable systems, APIs, and solving real-world problems with code  
+
+💡 I build scalable backend systems, design clean APIs, and develop fullstack applications that solve real-world problems.
 
 ---
 
 ## 🧠 About Me
 
-I’m a backend-focused developer with hands-on experience building **production-ready APIs and fullstack applications** using Django and React.
+I’m a backend-focused developer specializing in **Django and Django REST Framework**, with experience building **scalable APIs and fullstack systems** from the ground up.
 
-- 🔭 Currently working on: Fullstack applications (React + Django)
-- 🧩 Building: Scalable REST APIs & modular backend systems
-- 🔐 Experienced in: Authentication systems (JWT, custom user models)
-- ⚙️ Interested in: System design, automation, and health-tech solutions
-- 🌱 Learning: Docker, Celery, RabbitMQ, and advanced backend architecture
+- 🔭 Currently building **fullstack platforms (React + Django)** with real-world use cases  
+- 🧩 Designing **modular, maintainable REST APIs** with clean architecture  
+- 🔐 Implementing **secure authentication systems** (JWT, custom user models, permissions)  
+- ⚙️ Focused on **performance, scalability, and system design principles**  
+- 🌍 Exploring **health-tech solutions and workflow automation systems**  
+- 🌱 Currently learning **Docker, Celery, RabbitMQ, and distributed systems concepts**
+
+---
+
+## ⚡ What I Focus On
+
+- Building **production-ready backend systems**
+- Writing **clean, scalable, and maintainable code**
+- Designing **efficient database structures**
+- Integrating **frontend (React) with robust APIs**
+- Solving **real-world problems through software**
 
 ---
 
